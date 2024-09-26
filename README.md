@@ -1,7 +1,5 @@
 ## Hi there I'm Sanoch!👋
 
-
-**Sanoch020/Sanoch020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 💫 About Me:
 I am an enthusiastic and dedicated undergraduate student at SLIIT, pursuing a Bachelor of Science in Information Technology. I received my comprehensive foundation of academic knowledge at Hindu College, Colombo-04, where I developed essential skills and a strong educational base.With a solid background in computer science and hands-on experience in various IT areas, I am dedicated to using my skills to contribute to innovative projects. My studies have given me knowledge in software development, database management, and programming languages. I am excited to apply my technical and problem-solving abilities in a dynamic environment while looking for opportunities to grow professionally.<br><br>
 
